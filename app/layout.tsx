@@ -5,6 +5,11 @@ export const metadata: Metadata = {
   title: "Flexony Fasteners",
   description:
     "Dealers and suppliers of high quality fasteners — bolts, nuts, washers, anchors, studs, and more.",
+  icons: {
+    icon: "/assets/imgs/flexony-logo-trans.png",
+    shortcut: "/assets/imgs/flexony-logo-trans.png",
+    apple: "/assets/imgs/flexony-logo-trans.png",
+  },
 };
 
 export default function RootLayout({
