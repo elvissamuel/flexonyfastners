@@ -57,6 +57,14 @@ export default function SiteFooter() {
                 <i className="fab fa-instagram" />
               </a>
               <a
+                href="https://www.tiktok.com/@flexony_fasteners?_r=1&_t=ZS-96oNIPrI0lJ"
+                aria-label="TikTok"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fab fa-tiktok" />
+              </a>
+              <a
                 href="https://twitter.com/FelixUmeh2?t=4O4MKkZdjcWs8TSS-9c4ew&s=09"
                 aria-label="Twitter"
               >

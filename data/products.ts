@@ -54,7 +54,7 @@ export const products: Product[] = [
   {
     "slug": "countersunk-bolt",
     "title": "Countersunk Bolt",
-    "image": "flexony-logo-trans2.png",
+    "image": "countersunk-bolt.jpeg",
     "description": [
       "We supply the best Countersunk Bolt in Nigeria in large and small quantity. You can reach out to us immeditely",
       "Also known as a flat-heat screw, a countersunk screw is a type of screw that's designed to rest flush with the object or surface in which it's inserted.",
@@ -111,7 +111,7 @@ export const products: Product[] = [
   {
     "slug": "flange-nut",
     "title": "Flange Nut and Bolt",
-    "image": "flexony-logo-trans2.png",
+    "image": "Flange-bolt-nut.jpeg",
     "description": [
       "We supply the best Flange Nut and Bolt in Nigeria in large and small quantity. You can reach out to us immeditely",
       "The role of the flange bolt in this case is to secure the outer casing protecting the engine and transmission. A further common application of the flange bolts in the automotive industry consists of the car's exhaust."
@@ -147,7 +147,7 @@ export const products: Product[] = [
   {
     "slug": "grub-screw",
     "title": "Grub Screw Bolt",
-    "image": "flexony-logo-trans2.png",
+    "image": "Grub Screw bolt.jpeg",
     "description": [
       "We supply the best Grub Screw Bolt in Nigeria in large and small quantity. You can reach out to us immeditely",
       "Grub screw is commonly used as a locking device, particularly on custom modified Gears, Taper Locking Bushes, Pulleys or Adjusting Rings. The grub screw is tightened perpendicular to a shaft to restrict the movement of a connected component."
@@ -221,7 +221,7 @@ export const products: Product[] = [
   {
     "slug": "scaffolding-clamp",
     "title": "Scaffolding Clamp",
-    "image": "flexony-logo-trans2.png",
+    "image": "Scaffolding Clamp.jpeg",
     "description": [
       "We supply the best Scaffolding Clamp in Nigeria in large and small quantity. You can reach out to us immeditely",
       "Scaffolding clamp is a temporary structure that helps workers in many tasks of construction, maintenance, repair of a building, support material, bridges, and other man-made structures. It is mostly used in areas where there are heights and areas where it's hard for the workers to go like building and bridges."
