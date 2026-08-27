@@ -296,7 +296,7 @@ export default function HomePage() {
                   </div>
                   <div>
                     <h4>Email</h4>
-                    <p>flexonyfastners@gmail.com</p>
+                    <p>flexonyfasteners@gmail.com</p>
                   </div>
                 </div>
                 <div className="home-contact-item">

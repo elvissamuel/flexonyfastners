@@ -36,7 +36,7 @@ export default function SiteFooter() {
 
           <div className="home-footer-col">
             <h4>Contact</h4>
-            <span>flexonyfastners@gmail.com</span>
+            <span>flexonyfasteners@gmail.com</span>
             <span>+234 706 880 0252</span>
             <span>07068800252</span>
           </div>

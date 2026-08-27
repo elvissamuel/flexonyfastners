@@ -13,7 +13,7 @@ export default function ContactDetails() {
     {
       icon: "far fa-envelope",
       title: "Email",
-      text: "flexonyfastners@gmail.com",
+      text: "flexonyfasteners@gmail.com",
     },
     {
       icon: "fas fa-phone",
